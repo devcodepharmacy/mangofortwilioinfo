@@ -8,4 +8,7 @@ Linked to:
 # Mango for Twilio Info
 
 Initial repository setup.
-# mangofortwilioinfo
+
+## Design
+
+- [Mango Design Language](./DESIGN_LANGUAGE.md)
